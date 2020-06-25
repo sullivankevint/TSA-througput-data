@@ -7,8 +7,8 @@ Data maintained by quarter to keep file sizes down.
 
 Useful dataset is ourairports.com to get specific airport data https://ourairports.com/data/
 
-Please donate to help the work to keep the database up to date.
-
 Contact at sullivan.kevin.t@gmail.com
+
+Please donate to help the work to keep the database up to date.
 
 https://paypal.me/pools/c/8qilAFGpzA
