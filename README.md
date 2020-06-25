@@ -1,5 +1,5 @@
 # TSA-througput-data
-Data for airport and checkpoint level passenger flows as provided by the TSA
+Data for airport and checkpoint level passenger flows as provided by the TSA (https://www.tsa.gov/foia/readingroom)
 
 Data parsed by Tabula. Cleaning scripts in python and R written by Kevin Sullivan
 
