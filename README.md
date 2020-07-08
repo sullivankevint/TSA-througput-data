@@ -5,7 +5,7 @@ Data parsed by Tabula. Cleaning scripts in python and R written by Kevin Sulliva
 
 Data maintained by quarter to keep file sizes down.
 
-Useful dataset is ourairports.com to get specific airport data https://ourairports.com/data/
+Useful complementary dataset is ourairports.com to get specific airport data https://ourairports.com/data/
 
 Contact at sullivan.kevin.t@gmail.com
 
