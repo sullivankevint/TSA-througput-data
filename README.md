@@ -1,7 +1,7 @@
 # TSA-througput-data
 Data for airport and checkpoint level passenger flows as provided by the TSA (https://www.tsa.gov/foia/readingroom)
 
-Currently updated with releases through 8 JULY 2020.
+Currently updated with releases through 14 JULY 2020.
 
 Data parsed by Tabula. Cleaning scripts in python and R written by Kevin Sullivan
 
