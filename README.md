@@ -3,6 +3,8 @@ Data for airport and checkpoint level passenger flows as provided by the TSA (ht
 
 Currently updated with releases through 14 JULY 2020.
 
+Data for week of June 7 - June 13, 2020 will have missing datapoints due to poor formatting in the PDF release. Addition of those data is still pending as it requires quite a bit of manual cleaning.
+
 Data parsed by Tabula. Cleaning scripts in python and R written by Kevin Sullivan
 
 Data maintained by quarter to keep file sizes down.
