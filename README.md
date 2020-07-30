@@ -1,6 +1,6 @@
 # TSA-througput-data
 
-**Note (30 July 2020): I'm having some issues with my tabula script as something stopped working. Working to resolve the issue.
+**Note (30 July 2020): I'm having some issues with my tabula script as something stopped working. Working to resolve the issue.**
 
 Data for airport and checkpoint level passenger flows as provided by the TSA (https://www.tsa.gov/foia/readingroom)
 
